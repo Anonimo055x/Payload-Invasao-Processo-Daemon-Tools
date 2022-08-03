@@ -10,7 +10,7 @@ Payload para ser usado para invasao no processo aberto daemon tools instalando e
 Postarei so o payload o backdoor fica por conta de voces!
 
 
-Use com consciência, nao me resposabilizo pelo atos de voces drives atualizados do montagem compativel com windows 11/10/8/7...
+Use com consciência, nao me resposabilizo pelo atos de voces drives atualizados da montagem compativel com windows 11/10/8/7...
 
 
 Bom uso :);
